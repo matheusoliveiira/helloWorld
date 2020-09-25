@@ -1,1 +1,8 @@
+print("Laço de repetição para imprimir todos os elementos da lista")
+
+nomes = ['Pedro', 'João', 'Leticia']
+
+for n in nomes:
+    print(n)
+
 
